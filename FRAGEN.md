@@ -35,8 +35,8 @@ TESTFRAGE: Windows oder Linux?
 * Wie nennt man das USB-Stecksystem, welches sich durch seinen zweifachen rotationssymmetrischen Stecker auszeichnet?
   * USB-C
 
-* Was bezeichnet man auch als "Mainframe"?
-  * Großrechner 
+* Welches RAID Level beschreibt den Verbund von mindestens 2 Disks, bei dem auf allen Disks die gleichen Daten gespeichert werden?
+  * Raid Level 1
 
 ### Let IT ops
 
@@ -49,8 +49,8 @@ TESTFRAGE: Windows oder Linux?
 * Serverless Computing ist in aller Munde - Gute Cloudanbieter und Azure bieten einen FaaS (Function as a Service) Dienst an. Bei Google heißt er "Cloud Functions", bei Azure "Azure Functions". Wie heißt er bei Amazon?
   * Lambda
 
-* Welches RAID Level beschreibt den Verbund von mindestens 2 Disks, bei dem auf allen Disks die gleichen Daten gespeichert werden?
-  * Raid Level 1
+* Was bezeichnet man auch als "Mainframe"?
+  * Großrechner
 
 * Wie nennt sich die Linux Distribution, welche auf dem Red Hat Enterprise Linux aufbaut?
   * CentOs
@@ -92,11 +92,10 @@ TESTFRAGE: Windows oder Linux?
 
 ## Runde 3
 
-* Welcher ist der Standard Docker Network Driver?
-  * Bridge
-  * In terms of Docker, a bridge network uses a software bridge which allows containers connected to the same bridge network to communicate, while providing isolation from containers which are not connected to that bridge network. The Docker bridge driver automatically installs rules in the host machine so that containers on different bridge networks cannot communicate directly with each other
-
-* Es existieren 3 Quality of Service Klassen für Pods. "Guaranteed", "Burstable" und "..." ? 
+* Es existieren 3 Quality of Service Klassen für Pods in Kubernetes. "Guaranteed", "Burstable" und "..." ? 
   * BestEffort
+
+* Wie heißt das 1997 erschienene James Bond Spiel für die Nintendo64?
+  * Golden Eye 007
 
 

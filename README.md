@@ -10,7 +10,7 @@
   * `VORNAME [ANTWORT]`
   * Erfolgt die Beantwortung der Frage nicht nach der Vorgegebenen Syntax, ist die Antwort *UNZULÄSSIG*
 * Bei falscher Antwort ist ein erneuter Versuch der Beantwortung der Frage *NICHT* zulässig
-* Pro Runde kann nur *EIN* Quizteilnehmer Punkte verdienen
+* Pro Runde kann nur *EIN* Quizteilnehmer Punkte gewinnen
 
 ### 1.Runde
 
