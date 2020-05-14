@@ -32,4 +32,3 @@
 * 20 Sekunden Beantwortungszeit
 * Jede richtig beantwortete Frage gibt *DREI* Punkte
 * Derjenige mit den meisten Punkten gewinnt. Sollte ein Punktegleichstand bestehen, gibt es eine finale Frage
-
